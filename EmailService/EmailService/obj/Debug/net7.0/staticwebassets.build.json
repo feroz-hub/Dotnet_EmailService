@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bmuNldMJc6WKABCXGxH4xlYzuea1tFSVemBeCiWYYGc=",
+  "Source": "EmailServiceWithDotNet",
+  "BasePath": "_content/EmailServiceWithDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
